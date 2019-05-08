@@ -35,7 +35,7 @@ Output format: The output is the triplet distance between T1 and T2.
 
 Newick format: ((7,10,1),(4,5),((9,8,3),6),2);
 
-./generator -1 10 1.txt
+./generator -1 10 2.txt
 
 ![Screenshot](images/T2.png)
 
