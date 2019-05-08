@@ -2,7 +2,7 @@
 
 Problem: given two rooted trees T1 and T2 built on the same leaf label set of size n, compute the rooted triplet distance between T1 and T2.
 
-A sample generator for creating input networks is provided, as well as implementations of an O(qn) algorithm, where q is the total number of internal nodes in the smaller tree.
+A sample generator for creating input trees is provided, as well as implementations of an O(qn) algorithm, where q is the total number of internal nodes in the smaller tree.
 
 # Compilation
 
